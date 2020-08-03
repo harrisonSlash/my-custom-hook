@@ -1,4 +1,4 @@
-# useConuter Hook
+# useCounter Hook
 
 Ejemplo de uso
 ```
